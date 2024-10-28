@@ -1,0 +1,40 @@
+.sprite {
+        background-image: url(spritesheet.png);
+        background-repeat: no-repeat;
+        display: block;
+    }
+.sprite-accueil_icone {
+            width: 28 px;
+            height: 25 px;
+            background-position: 0 px 0 px;
+        }
+.sprite {
+        background-image: url(spritesheet.png);
+        background-repeat: no-repeat;
+        display: block;
+    }
+.sprite-aide_icone {
+            width: 28 px;
+            height: 25 px;
+            background-position: 28 px 0 px;
+        }
+.sprite {
+        background-image: url(spritesheet.png);
+        background-repeat: no-repeat;
+        display: block;
+    }
+.sprite-email {
+            width: 35 px;
+            height: 35 px;
+            background-position: 56 px 0 px;
+        }
+.sprite {
+        background-image: url(spritesheet.png);
+        background-repeat: no-repeat;
+        display: block;
+    }
+.sprite-facebook {
+            width: 35 px;
+            height: 35 px;
+            background-position: 91 px 0 px;
+        }
